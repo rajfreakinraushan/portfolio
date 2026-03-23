@@ -17,7 +17,7 @@ export default function Contact() {
             </a>
             <a href="tel:+910000000000" className="flex items-center gap-4 text-slate-700 dark:text-slate-300 hover:text-primary transition-colors">
               <div className="p-3 rounded-full bg-white dark:bg-slate-800 shadow-sm"><FiPhone /></div>
-              +91 00000 00000
+              +91 70610 69773
             </a>
             <a href="https://linkedin.com/in/rajraushanbaranwal" target="_blank" rel="noreferrer" className="flex items-center gap-4 text-slate-700 dark:text-slate-300 hover:text-primary transition-colors">
               <div className="p-3 rounded-full bg-white dark:bg-slate-800 shadow-sm"><FiLinkedin /></div>
@@ -29,7 +29,7 @@ export default function Contact() {
             </a>
           </div>
         </div>
-        
+
         <div className="flex-1">
           <div className="glass-panel p-8 space-y-5">
             <div>
